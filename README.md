@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Demo: [https://mrtuanphong.github.io/react-tailwind-storybook/](https://mrtuanphong.github.io/react-tailwind-storybook/).
+
 ## Available Scripts
 
 In the project directory, you can run:
